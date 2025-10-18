@@ -13,10 +13,10 @@ Using open datasets (DOHMH inspections and median-income data), the analysis com
 
 ## 🧩 Files  
 - **Data Analysis Preparation.ipynb** – Data cleaning and preprocessing  
-- **Childcare Affordibility.ipynb** – Visualization and affordability computation  
+- **Childcare Affordibility Project.ipynb** – Visualization and affordability computation  
 - **DOHMH_Childcare_Center_Inspections_20251012.csv** – Raw dataset  
 - **NYC_Childcare_Affordability_Summary.xlsx** – Final summarized data  
-- **visualization.png** – Bar chart comparing affordability by borough  
+- **Affordibility.png** – Bar chart comparing affordability by borough  
 
 ---
 
@@ -34,7 +34,7 @@ Python | Pandas | NumPy | Seaborn | Matplotlib | Jupyter Notebook
 
 ## 📊 Visualization  
 Final bar chart comparing affordability across NYC boroughs:  
-![Visualization](visualization.png)  
+![Visualization](Affordibility.png)  
 
 ---
 
@@ -44,6 +44,6 @@ Income differences—not cost differences—drive most affordability gaps.
 
 ---
 
-👨‍💻 **Created by:** Md Hasib Uddin  
+👨‍💻 **Created by:** Md Hasib Uddin, Simo Xiang, Brandon Caceres
 🎓 Master’s Student — Business Analytics, Baruch College  
 📍 New York City  
